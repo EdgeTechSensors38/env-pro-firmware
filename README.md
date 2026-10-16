@@ -40,7 +40,15 @@ This password is not a sensitive credential and is safe to publish, as the devic
 - Espressif ESP32 Core: 2.0.17
 - Board: M5Stack AtomS3 Lite (ESP32-S3)
 
-- ---
+---
+
+## Bosch Libraries
+
+- bsec2 Library: v1.10.2610
+- BME68x Sensor Driver: v1.3.40408
+- IAQ Config Blob: auto-selected by BSEC2
+
+---
 
 ## Bosch Documentation
 
