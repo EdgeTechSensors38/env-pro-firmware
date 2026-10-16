@@ -71,6 +71,12 @@ The ENV PRO inference stack — including GGUF model files, the Docker inference
 
 This GitHub repository contains only the firmware source for the M5Stack S3 Lite sensor endpoint.
 
+### 📬 Collaboration & Contact
+
+For collaboration requests or technical discussion, please use the dedicated project email:
+
+**edgetech1007[ at ]gmail.com**
+
 ## License
 
 MIT License
