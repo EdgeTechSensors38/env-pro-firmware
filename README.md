@@ -15,7 +15,6 @@ This GitHub repository exists solely as the canonical engineering source for the
 - IAQ + accuracy  
 - Local Wi‑Fi AP dashboard (auto‑refreshing)  
 - Serial debug output  
-- Arduino IDE 1.8.19 build environment
 
 ---
 
@@ -34,6 +33,14 @@ It contains the same default AP password used in the source code.
 This password is not a sensitive credential and is safe to publish, as the device operates only in local AP mode.
 
 ---
+
+## Build Environment
+
+- Arduino IDE 1.8.19
+- Espressif ESP32 Core: 2.0.17
+- Board: M5Stack AtomS3 Lite (ESP32-S3)
+
+- ---
 
 ## Bosch Documentation
 
