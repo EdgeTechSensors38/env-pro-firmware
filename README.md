@@ -63,6 +63,19 @@ These documents are available from Bosch Sensortec’s official website.
 
 ---
 
+### Access Point
+
+ENV‑PRO runs in Wi‑Fi Station/AP mode. The SSID and password required to connect
+to the device are defined in the firmware source (`.ino`). Users who flash the
+provided `.bin` file can find the SSID/password in the corresponding `.ino`
+without needing to rebuild the firmware.
+
+After connecting to the device’s AP, open:
+
+http://192.168.4.1/
+
+to view the live sensor data page.
+
 ## Hugging Face
 
 The ENV PRO inference stack — including GGUF model files, the Docker inference environment, Colab test notebooks, and supporting Python code (app.py, requirements.txt) — is published on Hugging Face:
