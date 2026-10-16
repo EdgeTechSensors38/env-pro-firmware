@@ -67,7 +67,7 @@ These documents are available from Bosch Sensortec’s official website.
 
 The ENV PRO inference stack — including GGUF model files, the Docker inference environment, Colab test notebooks, and supporting Python code (app.py, requirements.txt) — is published on Hugging Face:
 
-**https://huggingface.co/Jonathan/ENV-PRO**
+**https://huggingface.co/EdgeLLMModal1/env-pro-gguf**
 
 This GitHub repository contains only the firmware source for the M5Stack S3 Lite sensor endpoint.
 
@@ -96,8 +96,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 
 ---
-
-## Project Links
-
-- Firmware (GitHub) — this repository  
-- LLM, datasets, APK, Docker, notebooks (Hugging Face) — full ENV PRO reasoning system
