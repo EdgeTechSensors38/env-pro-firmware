@@ -60,7 +60,7 @@ This GitHub repository contains only the firmware source for the M5Stack S3 Lite
 
 MIT License
 
-Copyright (c) 2026 TheAlgorithms and contributors
+Copyright (c) 2026 EdgeTechSensors38 and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
