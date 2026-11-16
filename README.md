@@ -52,7 +52,7 @@ This password is not a sensitive credential and is safe to publish, as the devic
 
 ## Bosch Documentation
 
-ENV PRO uses the official Bosch Sensortec BME688 sensor and BSEC2 software library.  
+ENV Pro uses the official Bosch Sensortec BME688 sensor and BSEC2 software library.  
 For authoritative definitions of IAQ, CO₂eq, VOCeq, raw gas resistance, and other outputs, refer to:
 
 - BME688 Datasheet  
@@ -65,7 +65,7 @@ These documents are available from Bosch Sensortec’s official website.
 
 ### Access Point
 
-ENV‑PRO runs in Wi‑Fi Station/AP mode. The SSID and password required to connect
+ENV Pro runs in Wi‑Fi Station/AP mode. The SSID and password required to connect
 to the device are defined in the firmware source (`.ino`). Users who flash the
 provided `.bin` file can find the SSID/password in the corresponding `.ino`
 without needing to rebuild the firmware.
@@ -78,7 +78,7 @@ to view the live sensor data page.
 
 ## Hugging Face
 
-The ENV PRO inference stack — including GGUF model files, the Docker inference environment, Colab test notebooks, and supporting Python code (app.py, requirements.txt) — is published on Hugging Face:
+The ENV Pro inference stack — including GGUF model files, the Docker inference environment, Colab test notebooks, and supporting Python code (app.py, requirements.txt) — is published on Hugging Face:
 
 **https://huggingface.co/EdgeLLMModal1/env-pro-gguf**
 
