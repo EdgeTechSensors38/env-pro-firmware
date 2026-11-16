@@ -86,7 +86,7 @@ This GitHub repository contains only the firmware source for the M5Stack S3 Lite
 
 ## Companion Android App
 
-The companion Android app APK (minimim API 24, target API 34) is available to download that allows live monitoring ENV Pro data and storing in a CSV file on device:
+The companion Android app APK (minimim API 24, target API 34) is available to download that allows live monitoring ENV Pro data and storing in a CSV file (with context) on device (MD5 checksum: c96825a64090f6807e07d67a231c4c01):
 
 **https://doi.org/10.5281/zenodo.24103988**
 
