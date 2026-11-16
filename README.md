@@ -1,6 +1,6 @@
-# ENV PRO Firmware (M5Stack AtomS3 Lite)
+# ENV Pro Firmware (M5Stack AtomS3 Lite)
 
-This repository contains the official firmware source code for the ENV PRO environmental monitor, designed for the M5Stack AtomS3 Lite using the Bosch BME688 sensor and BSEC2 library. It provides a minimal, self‑contained environmental telemetry endpoint running in Wi‑Fi Access Point mode, serving a lightweight HTML dashboard.
+This repository contains the official firmware source code for the ENV Pro environmental monitor, designed for the M5Stack AtomS3 Lite using the Bosch BME688 sensor and BSEC2 library. It provides a minimal, self‑contained environmental telemetry endpoint running in Wi‑Fi Access Point mode, serving a lightweight HTML dashboard.
 
 This GitHub repository exists solely as the canonical engineering source for the firmware. All higher‑level documentation, LLM reasoning, datasets, and prosumer materials are published on Hugging Face.
 
@@ -83,6 +83,12 @@ The ENV PRO inference stack — including GGUF model files, the Docker inference
 **https://huggingface.co/EdgeLLMModal1/env-pro-gguf**
 
 This GitHub repository contains only the firmware source for the M5Stack S3 Lite sensor endpoint.
+
+## Companion Android App
+
+The companion Android app APK (minimim API 24, target API 34) is available to download that allows live monitoring ENV Pro data and storing in a CSV file on device:
+
+**https://doi.org/10.5281/zenodo.24103988**
 
 ### 📬 Collaboration & Contact
 
